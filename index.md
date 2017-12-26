@@ -2,44 +2,139 @@
 layout: default
 ---
 
+
+<img class="profile-picture" src="Jangwon_Lee.jpg">
+
+> Ph.D. candidate\\
+> School of Informatics, Computing, and Engineering\\
+> Indiana University\\
+> \\
+> Room 323, 919 East 10th Street\\
+> Bloomington, Indiana, 47408, USA\\
+> [<img class="email-picture" src="jangwon_lee_email_address.jpg">](mailto:leejang@indiana.edu)
+>
+> [Google Scholar](https://scholar.google.com/citations?user=Eq0SbcQAAAAJ&hl=en)
+> [LinkedIn](https://www.linkedin.com/in/jangwon-lee-839a80a2)
+
+--------------------------
+
 ## About Me
+#### [&#9654; Curriculum vitae](./Jangwon_Lee_CV.pdf)
 
-<img class="profile-picture" src="sherlock.jpg">
+Hello, I am a Ph.D Candidate in the Intelligent and Interactive Systems track of Informatics in the [School of Informatics, Computing, and Engineering](http://www.sice.indiana.edu/) at [Indiana University](http://www.indiana.edu/). I have expertise in computer vision and its application for robotics, and have extensive research experience using deep learning frameworks ([Tensorflow](http://www.tensorflow.org/) and [Caffe](http://caffe.berkeleyvision.org/)) and the [Robot Operating System (ROS)](http://www.ros.org/), among many other technologies. I am advised by [Prof. David Crandall](http://www.cs.indiana.edu/~djcran/) and [Prof. Selma &#352;abanovi&#263;](http://homes.soic.indiana.edu/selmas/) and in the final stage of Ph.D studies and plan to graduate in Spring or Summer 2018.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
+Computer Vision, Computer Vision for Robotics, Human-Robot Interaction, Human-Robot Collaboration
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Recent publications
+#### [&#9654; Full list of publications](./publications.html)
 
-## Publications
+*Peer-reviewed conference papers:*
+- **Jangwon Lee** and Michael S. Ryoo.
+Learning Robot Activities from First-Person Human Videos
+Using Convolutional Future Regression.
+In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),
+Sep 2017.
+[PDF](./papers/leejang_iros2017.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+ @inproceedings{leejang_iros2017, 
+    title = {Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression},
+    author = {Jangwon Lee and Michael S. Ryoo}
+    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year = {2017}
+}
+~~~~~~
+</div>
+</details>
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- Chenyou Fan, **Jangwon Lee**, Mingze Xu, Krishna Kumar Singh, Yong Jae Lee, David Crandall, and Michael S. Ryoo.
+Identifying First-person Camera Wearers in Third-person Videos.
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jul 2017.
+(Poster, 29.0% acceptance rate).
+[PDF](./papers/firstthird2017cvpr.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{firstthird2017cvpr, 
+    title = {Identifying first-person camera wearers in third-person videos},
+    author = {Chenyou Fan and Jangwon Lee and Mingze Xu and Krishna Kumar Singh and Yong Jae Lee and David J. Crandall and Michael S. Ryoo},
+    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year = {2017}
+}
+~~~~~~
+</div>
+</details>
 
-## Typography
+- **Jangwon Lee**, Jingya Wang, David Crandall, Selma &#352;abanovi&#263;, and Geoffrey Fox. 
+Real-Time, Cloud-Based Object Detection for Unmanned Aerial Vehicles.
+In IEEE International Conference on Robotic Computing (IRC), Apr 2017
+[PDF](./papers/leejang_irc2017.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{lee2017real,
+  title={Real-Time, Cloud-Based Object Detection for Unmanned Aerial Vehicles},
+  author={Lee, Jangwon and Wang, Jingya and Crandall, David and {\v{S}}abanovi{\'c}, Selma and Fox, Geoffrey},
+  booktitle={IEEE International Conference on Robotic Computing (IRC)},
+  year={2017}
+}
+~~~~~~
+</div>
+</details>
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+*Extended abstracts in conferences and workshops:*
+- **Jangwon Lee**, Haodan Tan, Selma Šabanović, and David Crandall. Forecasting Hand Gestures for Human-Drone Interaction. In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Late-Breaking Reports, Mar 2018. (Accepted).
+- **Jangwon Lee** and Michael S. Ryoo.
+Learning Robot Activities from First-person human Videos Using Convolutional Future Regression.
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+Workshop on Deep Learning for Robotic Vision (DLRV), Jul 2017.
+(Spotlight Presentation). **Best paper award!**{: style="color: Purple"}
+[PDF](./papers/leejang_cvpr_workshop_2017.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@InProceedings{Lee_2017_CVPR_Workshops,
+author = {Jangwon Lee and Michael S. Ryoo},
+title = {Learning Robot Activities From First-Person Human Videos Using Convolutional Future Regression},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+year = {2017}
+}
+~~~~~~
+</div>
+</details>
 
-Here is a table
+<script type="text/javascript">
+  function myJsFunc() {
+  var answer = confirm ("Please click on OK to continue.")
+  if (answer)
+  window.location="#";
+  }
+</script>
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Teaching Experience
 
-Here is a horizontal rule
+#### Associate Instructor, Indiana University, Bloomington, IN, USA.
+- INFO I590/CS B659: *Vision for Intelligent Robotics*
+  - with Prof. Michael S. Ryoo, Fall 2016
+- INFO I427: *Search Informatics*
+  - with Prof. David Crandall, Fall 2013, Fall 2014, 2015
+- INFO I201: *Mathematical Foundations of Informatics*
+  - with John Duncan and Saul Blanco, Spring 2014
 
----
+## Awards and Scholarships
+- Best Paper Award, CVPR Workshop on Deep Learning for Robotic Vision, 2017
+- Travel Grant, CVPR Workshop Deep Learning for Robotic Vision, 2017
+- Fellowship, four years of tuition and stipend, Indiana University, USA, 2013
+- Brain Korea 21 Scholarship, Sungkyunkwan University, Korea, 2006
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

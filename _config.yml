@@ -1,6 +1,7 @@
-title: Researcher
-url: "http://ankitsultana.com"
-baseurl: "/researcher"
+title: Jangwon Lee
+description: "Jangwon Lee"
+url: "http://homes.soic.indiana.edu"
+baseurl: "/leejang"
 
 markdown: kramdown
 
