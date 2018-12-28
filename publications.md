@@ -4,6 +4,25 @@ layout: default
 
 ## Publications
 *Peer-reviewed conference papers:*
+- **Jangwon Lee**, Bardia Doosti, Yupeng Gu, David Cartledge, David J. Crandall, and Christopher Raphael
+In IEEE Winter Conference on Applications of Computer Vision (WACV),
+Jan 2019.
+(Oral and Poster, 36.0% acceptance rate).
+[PDF](./papers/leejang_wacv2019.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{piano2019wacv, 
+    title = {Observing Pianist Accuracy and Form with Computer Vision},
+    author = {Jangwon Lee and Bardia Doosti and Yupeng Gu and David Cartledge and David J. Crandall and Christopher Raphael},
+    booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    year = {2019}
+}
+~~~~~~
+</div>
+</details>
 - **Jangwon Lee** and Michael S. Ryoo.
 Learning Robot Activities from First-Person Human Videos
 Using Convolutional Future Regression.
@@ -159,8 +178,67 @@ In The 3rd International Conference on Ubiquitous Robots and AmbientIntelligence
 </div>
 </details>
 
+
+*Peer-reviewed workshop papers:*
+- Chenyou Fan, **Jangwon Lee**, and Michael S. Ryoo.
+Forecasting Hand and Object Locations in Future Frames.
+In European Conference on Computer Vision (ECCV) Workshop on Anticipating Human Behavior, Sept 2018.
+[PDF](./papers/fan_eccv2018.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{fan2017forecasting,
+  title={Forecasting hand and object locations in future frames},
+  author={Fan, Chenyou and Lee, Jangwon and Ryoo, Michael S},
+  booktitle={European Conference on Computer Vision (ECCV) Workshop on Anticipating Human Behavior},
+  year={2018}
+}
+~~~~~~
+</div>
+</details>
+
+
 *Extended abstracts in conferences and workshops:*
-- **Jangwon Lee**, Haodan Tan, Selma Šabanović, and David Crandall. Forecasting Hand Gestures for Human-Drone Interaction. In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Late-Breaking Reports, Mar 2018. (Accepted).
+- Haodan Tan, **Jangwon Lee**, and Gege Gao.
+Human-Drone Interaction: Drone Delivery & Services for Social Event.
+In ACM SIGCHI Conference on Designing Interactive Systems (DIS), June 2018. 
+(Poster, 47.0% acceptance rate).
+[PDF](./papers/tan_dis2018.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{tan2018human,
+  title={Human-Drone Interaction: Drone Delivery \& Services for Social Events},
+  author={Tan, Haodan and Lee, Jangwon and Gao, Gege},
+  booktitle={ACM SIGCHI Conference on Designing Interactive Systems (DIS)},
+  year={2018}
+}
+~~~~~~
+</div>
+</details>
+
+- **Jangwon Lee**, Haodan Tan, Selma Šabanović, and David Crandall.
+Forecasting Hand Gestures for Human-Drone Interaction.
+In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Late-Breaking Reports, Mar 2018.
+[PDF](./papers/leejang_hri2018.pdf)
+<details style="display:inline">
+<summary>bibtex</summary>
+<div markdown="1">
+>
+~~~~~~
+@inproceedings{lee2018forecasting,
+  title={Forecasting Hand Gestures for Human-Drone Interaction},
+  author={Lee, Jangwon and Tan, Haodan and Crandall, David and {\v{S}}abanovi{\'c}, Selma},
+  booktitle={ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+  year={2018}
+}
+~~~~~~
+</div>
+</details>
 
 - **Jangwon Lee** and Michael S. Ryoo.
 Learning Robot Activities from First-person human Videos Using Convolutional Future Regression.

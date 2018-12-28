@@ -1,7 +1,7 @@
 title: Jangwon Lee
 description: "Jangwon Lee"
-url: "http://homes.soic.indiana.edu"
-baseurl: "/leejang"
+url: "https://leejang.github.io"
+baseurl: ""
 
 markdown: kramdown
 
