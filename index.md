@@ -71,7 +71,8 @@ Computer Vision, Computer Vision for Robotics, Human-Robot Interaction, Human-Ro
 #### [&#9654; Full list of publications](./publications.html)
 
 *Peer-reviewed conference papers:*
-- **Jangwon Lee**, Bardia Doosti, Yupeng Gu, David Cartledge, David J. Crandall, and Christopher Raphael
+- **Jangwon Lee**, Bardia Doosti, Yupeng Gu, David Cartledge, David J. Crandall, and Christopher Raphael.
+Observing Pianist Accuracy and Form with Computer Vision.
 In IEEE Winter Conference on Applications of Computer Vision (WACV),
 Jan 2019.
 (Oral and Poster, 36.0% acceptance rate).

@@ -4,7 +4,8 @@ layout: default
 
 ## Publications
 *Peer-reviewed conference papers:*
-- **Jangwon Lee**, Bardia Doosti, Yupeng Gu, David Cartledge, David J. Crandall, and Christopher Raphael
+- **Jangwon Lee**, Bardia Doosti, Yupeng Gu, David Cartledge, David J. Crandall, and Christopher Raphael.
+Observing Pianist Accuracy and Form with Computer Vision.
 In IEEE Winter Conference on Applications of Computer Vision (WACV),
 Jan 2019.
 (Oral and Poster, 36.0% acceptance rate).
