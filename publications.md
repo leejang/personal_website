@@ -8,7 +8,7 @@ layout: default
 Observing Pianist Accuracy and Form with Computer Vision.
 In IEEE Winter Conference on Applications of Computer Vision (WACV),
 Jan 2019.
-(Oral and Poster, 36.0% acceptance rate).
+(39.0% acceptance rate).
 [PDF](./papers/leejang_wacv2019.pdf)
 <details style="display:inline">
 <summary>bibtex</summary>
@@ -37,7 +37,7 @@ Sep 2017.
 ~~~~~~
  @inproceedings{leejang_iros2017, 
     title = {Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression},
-    author = {Jangwon Lee and Michael S. Ryoo}
+    author = {Jangwon Lee and Michael S. Ryoo},
     booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
     year = {2017}
 }
@@ -152,7 +152,7 @@ In The 1st International Conference of Ubiquitous Information Technology and App
 ~~~~~~
 @inproceedings{leejang_icut2007,
   title={Security Service Robot in Ubiquitous Environment based on Cognitive Robotic Engine},
-  author={Hunsue Lee and Jangwon Lee and Jaewoong Lim and Sukhan Lee}
+  author={Hunsue Lee and Jangwon Lee and Jaewoong Lim and Sukhan Lee},
   booktitle={The 1st International Conference of Ubiquitous Information Technology and Applications (ICUT)},
   year={2007}
 }
@@ -171,7 +171,7 @@ In The 3rd International Conference on Ubiquitous Robots and AmbientIntelligence
 ~~~~~~
 @inproceedings{leejang_urai2006,
   title={Robot Personality from Perceptual Behavior Engine: An Experimental Study},
-  author={Dongwook Shin and Jangwon Lee and Hun-Sue Lee and Sukhan Lee and Young-Jo Cho and Su-Young Chi}
+  author={Dongwook Shin and Jangwon Lee and Hun-Sue Lee and Sukhan Lee and Young-Jo Cho and Su-Young Chi},
   booktitle={In The 3rd International Conference on Ubiquitous Robots and AmbientIntelligence (URAI)},
   year={2006}
 }

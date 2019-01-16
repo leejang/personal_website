@@ -75,7 +75,7 @@ Computer Vision, Computer Vision for Robotics, Human-Robot Interaction, Human-Ro
 Observing Pianist Accuracy and Form with Computer Vision.
 In IEEE Winter Conference on Applications of Computer Vision (WACV),
 Jan 2019.
-(Oral and Poster, 36.0% acceptance rate).
+(39.0% acceptance rate).
 [PDF](./papers/leejang_wacv2019.pdf)
 <details style="display:inline">
 <summary>bibtex</summary>
@@ -104,7 +104,7 @@ Sep 2017.
 ~~~~~~
  @inproceedings{leejang_iros2017, 
     title = {Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression},
-    author = {Jangwon Lee and Michael S. Ryoo}
+    author = {Jangwon Lee and Michael S. Ryoo},
     booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
     year = {2017}
 }
