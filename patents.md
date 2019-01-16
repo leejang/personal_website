@@ -12,7 +12,7 @@ and recording medium having recorded thereon program for executing the method, 2
 US Patent 8,872,959.
 - Eunyoung Kim and **Jangwon Lee**.
 Method and apparatus for capturing moving picture, 2012.
-US Patent App. 13/282,761.
+US Patent App. 20120176505A1.
 - Eunyoung Kim and **Jangwon Lee**.
 Apparatus for processing digital image and thereof method, 2011.
 Korea Patent Publication Number: 10-2011-0087595
