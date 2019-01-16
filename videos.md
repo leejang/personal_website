@@ -8,7 +8,7 @@ layout: default
 - Observing Pianist Accuracy and Form with Computer Vision, WACV 2019
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=xORC1HONt7Y&t=5s" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/xORC1HONt7Y" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 #### Learning Robot Activities from First-Person Human Videos
