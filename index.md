@@ -57,7 +57,7 @@ in 2006 and M.S in Electrical and Computer Engineering from SKKU in 2008.
 ## Employment
 - Research Scientist, [ObjectVideo Labs](https://objectvideolabs.com/) at Alarm.com, Sep 2018 --
 - Research Assistant/Associate Instructor, [Indiana University](http://www.indiana.edu/). Sep 2013 - July 2018
-- Research Intern, [NASA Jet Propulsion Laborator](https://www.jpl.nasa.gov/), Jun 2016 - Aug 2016
+- Research Intern, [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Jun 2016 - Aug 2016
 - Software Engineer, [Samsung](https://www.samsung.com/us/), Feb 2008 - Jul 2013
   - Samsung Electronics, Apr 2010 - Jul 2013
   - Samsung Digital Imaging, Feb 2009 - Apr 2010
