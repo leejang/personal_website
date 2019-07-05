@@ -75,7 +75,6 @@ Computer Vision, Computer Vision for Robotics, Human-Robot Interaction, Human-Ro
 Observing Pianist Accuracy and Form with Computer Vision.
 In IEEE Winter Conference on Applications of Computer Vision (WACV),
 Jan 2019.
-(39.0% acceptance rate).
 [PDF](./papers/leejang_wacv2019.pdf)
 <details style="display:inline">
 <summary>bibtex</summary>
@@ -175,7 +174,6 @@ In European Conference on Computer Vision (ECCV) Workshop on Anticipating Human 
 - Haodan Tan, **Jangwon Lee**, and Gege Gao.
 Human-Drone Interaction: Drone Delivery & Services for Social Event.
 In ACM SIGCHI Conference on Designing Interactive Systems (DIS), June 2018. 
-(Poster, 47.0% acceptance rate).
 [PDF](./papers/tan_dis2018.pdf)
 <details style="display:inline">
 <summary>bibtex</summary>
