@@ -19,7 +19,7 @@ layout: default
 --------------------------
 
 ## About Me
-#### [&#9654; Curriculum vitae](./Jangwon_Lee_CV.pdf)
+#### [&#9654; Curriculum vitae](./JangwonLee_CV_July_05_19.pdf)
 
 
 Hello, I am a Research Scientist in the [ObjectVideo Labs](https://objectvideolabs.com/) at [Alarm.com](https://www.alarm.com/).
@@ -254,3 +254,12 @@ year = {2017}
 - Fellowship, four years of tuition and stipend, Indiana University, USA, 2013
 - Brain Korea 21 Scholarship, Sungkyunkwan University, Korea, 2006
 
+## Service
+*Journal manuscript review*
+- IEEE Robotics and Automation Letters (RA-L)
+- ACM Transactions on Human-Robot Interaction (THRI)
+
+*Conference and workshop paper review*
+- Winter Conference on Applications of Computer Vision (WACV, 2020)
+- IEEE International Conference on Intelligent Robots and Systems (IROS 2017, 2019)
+- ACM/IEEE International Conference on Human-Robot Interaction (HRI 2018)
